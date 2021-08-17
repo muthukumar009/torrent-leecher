@@ -1,5 +1,5 @@
 # Torrent Leecher
-### Moded By <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>𝕎𝕆𝕃𝕋ℝ𝔼𝕏</a>
+### Moded By <a href='BY TAMILAN DA'>MUTHU KUMAR</a>
 
 - This Bot allows you to leech (re-upload) contents from internet including torrent to telegram.
 
@@ -7,7 +7,7 @@
 
 * Set as Private (using password)
 * Able to use at group
-* Able to leech larger than 2GB (telegram max upload at once)
+* Able to leech larger than 10GB (telegram max upload at once)
 * Split as video (.mp4, .mkv, .avi, .webm, .wmv, .mov)
 * Upload files as media or as document
 * Upload files as a single zip file
